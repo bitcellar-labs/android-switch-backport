@@ -1,2 +1,9 @@
 bin
 gen
+local.properties
+.settings
+.DS_Store
+obj
+*.ipr
+*.iws
+*.idea
